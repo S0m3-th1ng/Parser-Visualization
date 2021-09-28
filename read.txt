@@ -1,0 +1,7 @@
+S->ABC
+A->a|_
+B->b|_
+C->d|_
+S
+S,A,B,C
+a,b,d,_
